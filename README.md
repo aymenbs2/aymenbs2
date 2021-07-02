@@ -7,8 +7,6 @@
 
 ### Hi there 👋
 
-I’m Aymen Salah, a Product Maker from Tunisia, I am passionate about bringing ideas to life. I mainly test, code, launch
-and ship. During the day I’m a Senior Android developer working  I do also contribute to open source
-whenever time allows it.
+I’m currently learning Flutter
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aymenbs2&show_icons=true&title_color=24292E&text_color=24292E&icon_color=0A6AD3)
