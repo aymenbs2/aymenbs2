@@ -3,6 +3,8 @@
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
 </a> <a href="https://www.instagram.com/aymenn_bs/">
 <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
+ </a> <a href="https://twitter.com/Aymenbe49803679">
+<img src="https://img.shields.io/twitter/url?style=social?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
 </p>
 
 ### Hi there 👋
