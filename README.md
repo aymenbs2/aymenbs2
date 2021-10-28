@@ -13,4 +13,4 @@
 I’m currently learning Flutter
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aymenbs2&show_icons=true&title_color=24292E&text_color=24292E&icon_color=0A6AD3)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mejdi14&" alt="aymenbs2" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aymenbs2&" alt="aymenbs2" /></p>
