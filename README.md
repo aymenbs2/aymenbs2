@@ -13,4 +13,4 @@
 I’m an android developer
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aymenbs2&" alt="aymenbs2" /></p>
-[![trophy](https://github-profile-trophy.vercel.app/?username=aymenbs2)](https://github.com/aymenbs2/aymenbs2)
+[![trophy](https://github-profile-trophy.vercel.app/?username=aymenbs2)](https://github.com/ryo-ma/github-profile-trophy)
