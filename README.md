@@ -13,3 +13,8 @@
 I’m an android developer
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aymenbs2&" alt="aymenbs2" /></p>
+[![Visits Badge](https://badges.pufler.dev/visits/aymenbs2/sanskar10100)](https://badges.pufler.dev)
+[![Years Badge](https://badges.pufler.dev/years/aymenbs2)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/aymenbs2)](https://badges.pufler.dev)
+[![Gists Badge](https://badges.pufler.dev/gists/aymenbs2)](https://badges.pufler.dev)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/aymenbs2)](https://badges.pufler.dev)
